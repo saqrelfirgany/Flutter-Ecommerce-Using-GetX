@@ -1,5 +1,6 @@
 # Flutter Ecommerce Using GetX
 
+###Flutter E-Commerce App Using Getx StateManagement, Firebase, and MVVM
 
 #### Packages:
 - get 
