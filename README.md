@@ -1,14 +1,14 @@
 # Flutter Ecommerce Using GetX
 
-### Flutter E-Commerce App Using Getx StateManagement, Firebase, and MVVM
-### Getx EcoSystem package - Routing , GetBuilder and Obx
-### Google SignIn using Get-X and firebase MVVM
-### Facebook SignIn using Get-X and firebase MVVM
-### Login and Regitser Functionality
-### Save user data on FireStore
-### Cart Functionality
-### Save user data using SharedPreferences
-### Bottom navigation Bar with getx
+### Flutter E-Commerce App Using Getx StateManagement, Firebase, and MVVM.
+### Getx EcoSystem package - Routing , GetBuilder and Obx.
+### Google SignIn using Get-X and firebase MVVM.
+### Facebook SignIn using Get-X and firebase MVVM.
+### Login and Regitser Functionality.
+### Save user data on FireStore.
+### Cart Functionality.
+### Save user data using SharedPreferences.
+### Bottom navigation Bar with getx.
 
 #### Packages:
 - get 
