@@ -17,7 +17,8 @@
 - firebase_auth 
 - flutter_login_facebook 
 - cloud_firestore 
-
+- sqflite
+- path
 
 # Screenshot's 
 
